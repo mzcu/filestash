@@ -32,6 +32,7 @@ import (
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_image_thumbnail"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_image_transcode"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_search_stateless"
+	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_search_sqlite"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_security_scanner"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_security_svg"
 	_ "github.com/mickael-kerjean/filestash/server/plugin/plg_starter_http"
